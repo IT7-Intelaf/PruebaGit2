@@ -16,6 +16,7 @@ namespace CRUD_BD_Clientes1.CapaDatos
         string sql;
         string cadenaConexion = "Data Source=192.168.220.251\\SQLTESTZEUS,51427;Initial Catalog=INTELAF TIENDA;Integrated Security=True;";
         //Prueba para hacer commit desde cmd
+        //Prueba commit desde git hub
 
         public ClientesRepository()
         {
